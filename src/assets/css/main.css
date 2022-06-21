@@ -1,0 +1,47 @@
+.SVG,
+.img {
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat
+}
+.SVG {
+  background-image: url("../images/Biomes-Header-Logo-01.png");
+  width: 200px;
+  background-size: contain;
+  height: 60px
+}
+.img {
+  background-image: url("../images/Biomes-Logo-01.svg");
+  width: 275px;
+  max-width: 275px;
+  text-align: left
+}
+.svg {
+  width: 0;
+  height: 0
+}
+.SVG.svg {
+  width: 400px;
+  height: 60px
+}
+.img.svg {
+  width: 500px;
+  height: 500px;
+  display: inline-block
+}
+.width {
+  width: 20px;
+  min-width: 20px;
+  height: 20px
+}
+.paragraph {
+  width: 400px;
+  margin-top: -30px
+}
+.type {
+  text-align: start
+}
+.background {
+  color: #94e5a8;
+  background-image: url("../images/Biones-promo-4.png")
+}
+
